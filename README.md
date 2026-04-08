@@ -13,5 +13,3 @@ https://app-covid19-marina.surge.sh/
 Prima App con React (esercitazione):
 https://silver-dragon-196177.netlify.app/ 
 
-Esercitazione Hooks useState:
-https://esercitazione-hooks-usestate-marina.netlify.app/  

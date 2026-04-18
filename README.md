@@ -15,3 +15,7 @@ https://silver-dragon-196177.netlify.app/
 
 App Appuntamenti React: esercitazione hooks useState
 https://appuntamenti-es-react-usestate.netlify.app/
+
+Esercitazione React su useEffect:
+https://dark-mode-react-marina.netlify.app/
+

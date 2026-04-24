@@ -22,3 +22,6 @@ https://dark-mode-react-marina.netlify.app/
 App React Vacanze
 https://app-react-vacanze-marina.netlify.app/
 
+Esercitazione React Slider
+https://slider-react-marina.netlify.app/
+

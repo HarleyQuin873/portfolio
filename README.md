@@ -25,3 +25,6 @@ https://app-react-vacanze-marina.netlify.app/
 Esercitazione React Slider
 https://slider-react-marina.netlify.app/
 
+Esercitazione React Gelateria:
+https://gelateria-react-marina.netlify.app/
+

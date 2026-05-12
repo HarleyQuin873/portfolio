@@ -31,6 +31,8 @@ https://gelateria-react-marina.netlify.app/
 App React Color Grading:
 https://color-grading-marina.netlify.app/
 
+App React Cart: https://cart-marina.netlify.app/
+
 App React Navbar:
 https://marina-pugliese.netlify.app/
 
